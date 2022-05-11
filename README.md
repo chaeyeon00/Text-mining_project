@@ -10,8 +10,8 @@ Summary
 
 
 (2). Data Preprocessing
-- 텍스트 마이닝 처리(블로그 리뷰 내역)
 - EDA (독점콘텐츠  + 블로그 리뷰 )
+- 텍스트 마이닝 처리(블로그 리뷰 내역)
 
 
 (3). Model & Algorithms
