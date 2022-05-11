@@ -5,6 +5,7 @@ Background
 - OTT플랫폼 시장의 성장과 플랫폼별 독점 콘텐츠 증가에 따른 사용자별 맞춤형 추천 프로그램 생성 
 
 Summary
+
 (1). Data Collection
 -  OTT플랫폼별 독점 콘텐츠 및 장르 조사
 -  OTT플랫폼별 프로그램에 대한 블로그 리뷰 수집
