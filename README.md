@@ -1,7 +1,8 @@
 # Text-mining_project
 Project - OTT 플랫폼 추천 프로그램
+
 Background
- OTT플랫폼 시장의 성장과 플랫폼별 독점 콘텐츠 증가에 따른 사용자별 맞춤형 추천 프로그램 생성 
+- OTT플랫폼 시장의 성장과 플랫폼별 독점 콘텐츠 증가에 따른 사용자별 맞춤형 추천 프로그램 생성 
 
 Summary
 (1). Data Collection
